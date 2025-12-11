@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer who loves building soft
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: Task Manager with categories 
+- 🔭 I’m currently working on: public transportation system
 - 🌱 I’m currently learning: DevOps , TypeScript , Next.js
 - 👯 I’m looking to collaborate on: Open source, side projects
 - 💬 Ask me about: Tech stack, experiences,  system adminstration
